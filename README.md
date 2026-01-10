@@ -1,6 +1,6 @@
 # AI/ML Foundations
 
-Hi, I’m Shreya 👋  
+Hi, I’m Shreya  
 I’m a diploma student working in the field of Artificial Intelligence and Machine Learning.
 
 This repository is created to strengthen my core foundations in:
